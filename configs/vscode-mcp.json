@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"TmpState": {
+			"url": "https://tmpstate.dev/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}

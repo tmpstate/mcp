@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "TMP_STATE": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote@0.1.38", "https://tmpstate.dev/mcp"]
+    }
+  }
+}
